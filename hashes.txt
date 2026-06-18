@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Esclavo de tus recuerdos
+
+This log tracks the cryptographic history and versioning for the song **Esclavo de tus recuerdos** (esclavo-de-tus-recuerdos).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-19T02:38:21.129266 | `v1` | `05aadc3d0df99b71d0335ab0006278a40ec7eeb720cbcdc58cafed9dbf78e672` | `2b96d5cba2e73020b948bd4e9f2d56ab85adbed270c2a273489725ed215c650d` | `2026-06-19_esclavo-de-tus-recuerdos-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
