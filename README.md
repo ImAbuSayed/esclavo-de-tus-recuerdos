@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/esclavo-de-tus-recuerdos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Esclavo de tus recuerdos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/esclavo-de-tus-recuerdos/) |
+| **Get License** | [Get a Licensing Quote for Esclavo de tus recuerdos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/esclavo-de-tus-recuerdos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Me tienes dando vueltas, baby, en la madrugada,
+> Esclavo de tus recuerdos, mi mente no dice nada,
+> I can’t let you go, tu aroma sigue en mi almohada,
+> Vuelve a mi cama, mami, que la noche está pesada.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
